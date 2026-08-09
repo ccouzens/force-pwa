@@ -11,7 +11,7 @@
     {
       "type": "origin",
       "origin": "https://slack.com"
-    },
+    }
   ],
   "display_override": "tabbed",
   "orientation": "portrait",
