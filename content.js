@@ -4,7 +4,7 @@
  */
 
 const MANIFEST_URL =
-  "https://raw.githubusercontent.com/gxanshu/slack-pwa/main/pwa/pwa-manifest.json";
+  "https://raw.githubusercontent.com/ccouzens/slack-pwa/main/pwa/pwa-manifest.json";
 const INIT_DELAY_MS = 2000;
 const POLL_INTERVAL_MS = 1000;
 
