@@ -3,7 +3,17 @@
   "short_name": "Slack",
   "start_url": "https://app.slack.com/client",
   "scope": "https://app.slack.com/",
-  "display": "standalone",
+  "scope_extensions": [
+    {
+      "type": "origin",
+      "origin": "https://app.slack.com"
+    },
+    {
+      "type": "origin",
+      "origin": "https://slack.com"
+    },
+  ],
+  "display_override": "tabbed",
   "orientation": "portrait",
   "background_color": "#4A154B",
   "theme_color": "#4A154B",
@@ -43,6 +53,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "splash_pages": null
+  ]
 }
