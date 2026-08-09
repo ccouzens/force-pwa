@@ -8,7 +8,7 @@ Run the following code in the javascript console whilst on https://app.slack.com
 
 ```javascript
 const MANIFEST_URL =
-  "https://raw.githubusercontent.com/ccouzens/slack-pwa/main/pwa/pwa-manifest.json";
+  "https://raw.githubusercontent.com/ccouzens/slack-pwa/main/manifest.json";
 const manifestLink = document.createElement("link");
 manifestLink.rel = "manifest";
 manifestLink.href = MANIFEST_URL;
