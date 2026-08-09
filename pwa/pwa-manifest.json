@@ -19,7 +19,7 @@
   ],
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/ccouzens/slack-pwa/main/assets/logo.svg",
+      "src": "https://a.slack-edge.com/38f0e7c/marketing/img/nav/logo.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     }
