@@ -13,10 +13,10 @@
       "origin": "https://slack.com"
     }
   ],
-  "display_override": "tabbed",
-  "orientation": "portrait",
-  "background_color": "#4A154B",
-  "theme_color": "#4A154B",
+  "display_override": [
+    "tabbed",
+    "standalone"
+  ],
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/ccouzens/slack-pwa/main/assets/72x72.png",
